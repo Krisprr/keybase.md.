@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am krisprr on github.
+  * I am chrisptn (https://keybase.io/chrisptn) on keybase.
+  * I have a public key ASC1Ie3P5JBapre8M3T_Il4LtjUhgjK1KnIA_sjXbIgVYgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b521edcfe4905aa6b7bc3374ff225e0bb635218232b52a7200fec8d76c8815620a",
+      "host": "keybase.io",
+      "kid": "0120b521edcfe4905aa6b7bc3374ff225e0bb635218232b52a7200fec8d76c8815620a",
+      "uid": "0bcca9f74435a793b4a853d349808d19",
+      "username": "chrisptn"
+    },
+    "merkle_root": {
+      "ctime": 1569063354,
+      "hash": "d5289f996ff602ee28e4ce874aef4fcf075015069e4a2a9e714102f2ca5311e830c52fe1cffbc520bf59ce2d40f1653164cf0c39605232bfc83ad90313b3bee4",
+      "hash_meta": "505d7324bfb58bd84dd79cb6f14f705723895dbe6ac1d8cc60145b505a7f42a2",
+      "seqno": 7663759
+    },
+    "service": {
+      "entropy": "Vc+eKPh4Pdjc4sYlU1JReMw+",
+      "name": "github",
+      "username": "krisprr"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1569063589,
+  "expire_in": 504576000,
+  "prev": "eaa7b87aec099943c9a03b2aefdd56a1e91693a828a64cf5537a31a95413445e",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASC1Ie3P5JBapre8M3T_Il4LtjUhgjK1KnIA_sjXbIgVYgo](https://keybase.io/chrisptn), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtSHtz+SQWqa3vDN0/yJeC7Y1IYIytSpyAP7I12yIFWIKp3BheWxvYWTESpcCBcQg6qe4euwJmUPJoDsq791WoekWk6gopkz1U3oxqVQTRF7EIFvvlbCpKNHgOfjrCa1q0Gfgchd80b7rdyz95OKZTRggAgHCo3NpZ8RA3QhFJeKGZrDijs00EG1UqBrZViTbw6QLwQkWlykuNlZ61EWWVMLgPX6s3mj8cNtkwixU3DBh3Mfe3Y7XeSRsDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOEVMjz9Ykg7Lvpvl69DERY0tTOtEMuut1lOZKnNk/62o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/chrisptn
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id chrisptn
+```
